@@ -1,0 +1,17 @@
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TigerFoot {
+  height: 4rem;
+  width: 4rem;
+}
+
+.TitleText {
+  font-size: 4rem;
+  color: #00815f;
+  font-weight: 600;
+  margin-left: 1rem;
+}

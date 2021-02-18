@@ -1,0 +1,33 @@
+.Questions {
+  margin-top: 3rem;
+}
+
+.Questions select {
+  height: 2rem;
+  width: 10rem;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  color: black;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background-color: #eee;
+}
+
+.ButtonRow {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto;
+  margin-top: 4rem;
+  width: 20rem;
+}
+
+.ButtonRow button {
+  padding: 5px 15px;
+  font-size: 0.8rem;
+  margin-left: 1rem;
+}
+
+.ButtonRow button:disabled {
+  background-color: #ccc;
+  color: #333;
+}
